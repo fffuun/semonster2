@@ -16,8 +16,10 @@ public class MonsterTest {
     Monster monster = new Monster(name, rare);
     assertEquals(monsters[name] + ":レア度[" + rare + "]", monster.toString());
 
-    int a = 1;
-    assertEquals("サハギン", monster.summonMonster(a));
+    name = 1;
+    assertEquals("サハギン", monster.summonMonster(name, rare));
+    rare = 4;
+    assertEquals("キングサハギン", monster.summonMonster(name, rare));
   }
 
 }
