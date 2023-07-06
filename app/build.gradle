@@ -36,6 +36,6 @@ application {
     mainClass = 'semonster2.App'
 }
 
-tasks.withType(javaCompile){
+tasks.withType(JavaCompile){
     options.encoding='UTF-8'
 }
