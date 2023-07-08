@@ -8,18 +8,31 @@ import static org.junit.Assert.*;
 
 public class MonsterTest {
   @Test
-  public void testMonster() {
-    int name = 3;
-    int rare = 0;
-    String monsters[] = { "スライム", "サハギン", "ドラゴン", "デュラハン", "シーサーペント" };
+  public void testMonsterInitialization() {
+    Monster monster = new Monster(0, 1);
 
-    Monster monster = new Monster(name, rare);
-    assertEquals(monsters[name] + ":レア度[" + rare + "]", monster.toString());
-
-    name = 1;
-    assertEquals("サハギン", monster.summonMonster(name, rare));
-    rare = 4;
-    assertEquals("キングサハギン", monster.summonMonster(name, rare));
+    assertEquals("スライム", monster.name);
+    assertEquals(1, monster.rare);
   }
 
+  @Test
+  public void testSummonMonster() {
+    Monster monster = new Monster(2, 1);
+
+    assertEquals("ドラゴン", monster.name);
+  }
+
+  @Test
+  public void testToString() {
+    Monster monster = new Monster(3, 2);
+
+    assertEquals("デュラハン:レア度[2]", monster.toString());
+  }
+
+  @Test
+  public void testEvolveMonster() {
+    Monster monster = new Monster(1, 3);
+
+    assertEquals("サハギン（進化）", monster.name);
+  }
 }
