@@ -5,7 +5,6 @@ import java.util.LinkedList;
 
 /**
  * プレイヤーはモンスターデッキを持つ
- *
  * Deck：MonsterのArrayList
  */
 public class Player {
