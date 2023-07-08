@@ -1,0 +1,428 @@
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se
+#1688343918
+getlocal
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se
+#1688343924
+getenv
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai
+#1688343938
+cd kadai
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688343941
+cd se23
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688343943
+ls
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688345589
+git clone git@github.com:fffuun/semonster2.gt
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688345595
+git clone git@github.com:fffuun/semonster2.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688345615
+ls
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688349169
+git pull origin main
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688349460
+git switch -c wata
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688349642
+git remote add origin git@github.com:fffuun/semonster2.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688349810
+cd semonster2
+res:3	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688349814
+git remote add origin git@github.com:fffuun/semonster2.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688349825
+git switch -c wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688349874
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350037
+git status
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350054
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350065
+git pull origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350117
+git fetch
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350155
+git checkout main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350164
+git pull origin main
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350175
+git switch -c wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350188
+git checkout main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350206
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688350221
+git merge main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688352129
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627018
+cd ~/kadai/se23/
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627070
+ls
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627346
+git switch wata
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627396
+git fetch
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627587
+git remote add origin git@github.com:fffuun/semonster2.git
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627597
+git remote add origin git@github.com:fffuun/semonster.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627656
+getlocal
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627703
+getenv
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627708
+ls
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627802
+git origin main
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627820
+git switch main
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627826
+git status
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627976
+git init
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688627996
+git remote add origin git@github.com:fffuun/semonster2.git
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688628003
+git switch main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688628009
+git fetch
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688628024
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688631406
+git push origin wata
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688631417
+gradle run
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688631590
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688631643
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688631826
+gradle run
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688631933
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688632032
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688632166
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688632221
+./gradlew clean
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688632281
+gradle run
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688632347
+ls
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688632354
+cd semonster2
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688632356
+gradle run
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688632571
+gradle run
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688632687
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688632825
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688632846
+gradle run
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688633119
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688633206
+gradle run
+res:130	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688633376
+gradle run
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688634212
+gradle run
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688634251
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688634308
+git add -A
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688634323
+git commit -m "XXX"
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688634332
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se
+#1688812685
+git status
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai
+#1688812719
+cd kadai
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688812722
+cd se23
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812734
+cd semonster2
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812756
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812767
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812772
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812802
+git push origin main
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812820
+git swtch
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812824
+git switch
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812827
+git switch main
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812830
+git push origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812846
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812874
+git log
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812914
+git status
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688812938
+git checkout main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813028
+git checkout main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813032
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813042
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813050
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813098
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813102
+git checkout main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813121
+git switch wata
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813154
+git push origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813338
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813366
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813420
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813424
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813475
+git checkout main
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813486
+git push origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813492
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813554
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813560
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813578
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813625
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813648
+git checkout main
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813662
+git pull origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813680
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813694
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813704
+git status
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813709
+git log
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813865
+git pull origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813872
+git checkout main
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813883
+git pull origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813895
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813905
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688813917
+git pull origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814031
+git fetch
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814054
+git switch -c huna
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814062
+git pull origin huna
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814079
+git switch -c funa
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814088
+git pull origin funa
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814111
+git switch -c wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814127
+git switch huna
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814132
+git pull origin huna
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814167
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814183
+git merge main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814206
+git add -A
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814219
+git commit -m "WWW"
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814238
+git push origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23/semonster2
+#1688814248
+git push origin wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se
+#1688814427
+git remote git@github.com:fffuun/semonster2.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai
+#1688814447
+cd kadai
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814452
+cd se23
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814457
+ls
+res:129	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814465
+git remote git@github.com:fffuun/semonster2.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814560
+git clone git@github.com:fffuun/semonster2.git
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814614
+git switch main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814621
+git log

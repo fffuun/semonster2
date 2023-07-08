@@ -33,9 +33,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'semonster2.App'
-}
-
-tasks.withType(JavaCompile){
-    options.encoding='UTF-8'
+    mainClass = 'gradle_sample.App'
 }
