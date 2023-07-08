@@ -426,3 +426,39 @@ git switch main
 res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
 #1688814621
 git log
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814767
+git add -A
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814781
+git commit -m "WWW"
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814794
+git push origin main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814836
+git log
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814865
+git pull origin main
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814924
+git switsh wata
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814931
+git switch wata
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814954
+git checkout main
+res:0	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814962
+git pull origin main
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814969
+git switch wata
+res:128	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814976
+git switch -c wata
+res:1	pwd:/c/Users/渡辺一貴/oithomes/se/kadai/se23
+#1688814998
+git switch wata
